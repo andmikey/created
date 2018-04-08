@@ -5,3 +5,4 @@ We made two things:
 - A Microbit script (freedom.py), where pressing A would scroll a Richard Stallman quote, and pressing B would scroll an Edward Snowden quote. 
 - A Raspberry Pi app (app.py), where you would press a button and a random Richard Snowden quote would be read to you using espeak
 
+And there's a presentation in pres.odp showcasing the why / how of the project. 
